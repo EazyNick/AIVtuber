@@ -1,6 +1,6 @@
 # AIVtube
 
-AIVtube는 LLM(대형 언어 모델)과 TTS(음성 합성)를 활용한 인공지능 버추얼 유튜버(AI VTuber) 방송인 프로젝트입니다.
+AIVtube는 LLM(대형 언어 모델)과 TTS(음성 합성)를 활용한 인공지능 버추얼 유튜버(AI VTuber) 프로젝트입니다.
 
 [📺 AIVtube 유튜브 채널](https://www.youtube.com/)  
 
